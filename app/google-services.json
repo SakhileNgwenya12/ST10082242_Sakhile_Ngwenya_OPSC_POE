@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "656621036661",
+    "project_id": "open-source-part3",
+    "storage_bucket": "open-source-part3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656621036661:android:2e15abe3dd5114ab22c43c",
+        "android_client_info": {
+          "package_name": "com.example.opsc7311_part3_gr10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656621036661-u2g0iesl8bp94gmfn8q2ded31g1edjtg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwOoAOMLlHqygG99gR9YB1y-kFG_o8LHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656621036661-u2g0iesl8bp94gmfn8q2ded31g1edjtg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
